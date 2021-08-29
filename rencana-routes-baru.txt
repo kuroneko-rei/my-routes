@@ -11,4 +11,5 @@ RENCANA BARU KEDEPANNYA :
 - Belajar PHP
 - Belajar Flutter
 - Belajar React
+  > Dasar-dasar react saja untuk sekarang
 - Belajar Java
