@@ -6,8 +6,10 @@ PRASYARAT :
 
 RENCANA BARU KEDEPANNYA :
 - Belajar Javascript
-  > Angular
+  > Vue Js
     * Cari tempat belajarnya
 - Belajar PHP
 - Belajar Flutter
 - Belajar React
+  > Dasar-dasar react saja untuk sekarang
+- Belajar Java
