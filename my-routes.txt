@@ -1,12 +1,13 @@
 MY-ROUTES THIS YEARS UNTIL DEAD
 
 - Jaga Sholat 5 Waktu
-- Belajar Laravel 8
-  * WPU - Web Programming UNPAS
+- Belajar Laravel 8 dari :
+  * WPU - Web Programming UNPAS Playlist Laravel 8
+    > Sampai di Redesign UI
 - Belajar Jual Beli Online (Rumah & Mobil)
 - Push Proposal & Skripsi
   * Cari Judul Proposal & Jurnal yang berkaitan
-- Belajar Public Speaking (Banyak-banyak komunikasi dengan orang)
+- Belajar Public Speaking (banyak-banyak komunikasi dengan orang)
 
 #Jika dilihat di history :
 - Tanda Hijau berarti data di tambahkan
