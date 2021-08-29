@@ -1,0 +1,11 @@
+RENCANA BARU UNTUK ROUTES KEDEPANNYA (MASIH RENCANA)
+
+PRASYARAT :
+- Jika sudah selesai belajar Laravel 8
+- Jika sudah bisa membuat app sederhana dengan Framework Laravel 8
+
+RENCANA BARU KEDEPANNYA :
+- Belajar Javascript
+- Belajar Flutter
+- Belajar React
+- Belajar Java
