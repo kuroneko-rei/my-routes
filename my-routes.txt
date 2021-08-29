@@ -1,9 +1,12 @@
 MY-ROUTES THIS YEARS UNTIL DEAD
-1. Jaga Sholat 5 Waktu.
-2. Belajar tentang Laravel 8
-3. Push Proposal & Skripsi
-4. Belajar Berbisnis
-5. Belajar Public Speaking
+
+- Jaga Sholat 5 Waktu
+- Belajar Laravel 8
+  * WPU - Web Programming UNPAS
+- Belajar Jual Beli Online (Rumah & Mobil)
+- Push Proposal & Skripsi
+  * Cari Judul Proposal & Jurnal yang berkaitan
+- Belajar Public Speaking (Banyak-banyak komunikasi dengan orang)
 
 #Jika dilihat di history :
 - Tanda Hijau berarti data di tambahkan
