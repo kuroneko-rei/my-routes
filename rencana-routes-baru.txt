@@ -6,7 +6,8 @@ PRASYARAT :
 
 RENCANA BARU KEDEPANNYA :
 - Belajar Javascript
-  * WPU - Web Programming UNPAS
+  > Angular
+    * Cari tempat belajarnya
+- Belajar PHP
 - Belajar Flutter
 - Belajar React
-- Belajar Java
