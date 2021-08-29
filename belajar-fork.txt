@@ -1,0 +1,3 @@
+BELAJAR FORK Dari Playlist GIT & GITHUB #4 di Channel WPU > WEB PROGRAMMING UNPAS
+
+- Fork maksudnya adalah mengcopy atau menduplikat repo orang lain agar bisa di kerjakan di repo kita sendiri (kurang lebih seperti itu)
